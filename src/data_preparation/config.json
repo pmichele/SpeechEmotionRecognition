@@ -1,0 +1,8 @@
+{
+  "sr": 16000,
+  "max_offset": 0.2,
+  "output_data": "/data",
+  "input_data": "/raw_data",
+  "file_map": "/src/data_preparation/file_map.json",
+  "n_augm": 1
+}

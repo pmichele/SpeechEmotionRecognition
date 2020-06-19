@@ -1,0 +1,13 @@
+{
+  "batch_size": 128,
+  "gpu": false,
+  "label_map_path": "/src/flask_app/label_map.json",
+  "lr": 0.0001,
+  "model_dir":  "/models/cnn",
+  "num_iterations": 3000,
+  "prev_model_dir": null,
+  "query_set_dir": "/raw_data",
+  "train_set_dir": "/data/train",
+  "test_set_dir": "/data/test",
+  "test_every_n_steps": 50
+}
