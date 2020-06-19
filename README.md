@@ -1,3 +1,5 @@
+Speech emotion recognition for the emo-db dataset (http://emodb.bilderbar.info/start.html).
+
 1. To build the docker image
 
     docker build -t michele/ser .     
