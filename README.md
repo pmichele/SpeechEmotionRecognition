@@ -6,7 +6,7 @@ Speech emotion recognition for the emo-db dataset (http://emodb.bilderbar.info/s
 
     This will setup the container with the required packages, download the data, augment it and run the flask and notebook server.
 
-    If the data preparation is too long you can change the n_augm paramenters in src/data_preparation/config to 1. This will disable data augmentation. (Normally it's more convenient to augment samples on the fly but in the reference paper the authors don't follow this approach)
+    If the data preparation is too long you can change the n_augm paramenters in src/data_preparation/config to 1. This will disable data augmentation.
 
 2. To run the container
 
