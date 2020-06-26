@@ -1,4 +1,4 @@
-Speech emotion recognition for the emo-db dataset (http://emodb.bilderbar.info/start.html).
+Speech emotion recognition for the emo-db dataset (http://emodb.bilderbar.info/start.html). The proposed solution consists of a CNN architecture over a mixture of features extracted from audio.
 
 1. To build the docker image
 
